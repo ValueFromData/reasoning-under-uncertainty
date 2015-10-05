@@ -44,5 +44,5 @@ My co-tutor, [Dorai Thodla](https://www.linkedin.com/in/dorai), and I look forwa
 
 #### Workshop outline 
 
-An outline of the workshop, with additional reading material, is available as a [markdown file](https://github.com/ValueFromData/reasoning-under-uncertainty/blob/master/ProbabilisticProgramming.md).
+An outline of the workshop, with additional reading material, is available as a [markdown file](https://github.com/ValueFromData/reasoning-under-uncertainty/blob/master/notes/ProbabilisticProgramming.md).
 
